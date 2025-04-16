@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MarthaKeerthi
 - 👀 I’m interested in web development and python
-- 🌱 I’m currently learning DSA i python
+- 🌱 I’m currently learning DSA in python
 - 💞️ I’m looking to collaborate ,to work with passionate developers!
-- 📫 How to reach me 
+- 📫 How to reach me https://github.com/MarthaKeerthi
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I considered giving up...but then i didn't.now you're reading this!
 
